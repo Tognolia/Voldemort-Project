@@ -20,15 +20,11 @@ This repository contains data and additional information by the Lily Potter team
 
 ## The Data 
 
-The dataset was checked for duplicates.
-The identifier field (Customer Number) was dropped.
-The data columns were checked for null values. Null values were present in the numerical features were dropped since represent less than one percent of the total.
-The data type of each column was checked. 
-The unique values and distribution of each categorical feature were checked.
-The distributions of each numerical variable were checked. The data fields Credit Cards Held, Homes Owned, Household Size, Bank Accounts Open were of numeric data type but are in fact categoricals so they will be treated as categories in our analysis.
-Numericals variables were checked for correlation un´sing heatmap and some were dropped due to high redundancies.
-Data columns were renamed and stylized as snake_case.
-Checking the target variable unique values we have seen that the data were strongly unbalanced. We will deal with this during the several iterations later.
+The dataset was checked for duplicates. The identifier field (Customer Number) was dropped.
+The data columns were checked for null values. Null values were present in the numerical features were dropped since they represent less than one percent of the total. 
+The data type of each column was checked. The unique values and distribution of each categorical feature were checked. 
+The distributions of each numerical variable were checked. The data fields credit cards held, homes owned, household size, bank accounts open were of numeric data type but are in fact categoricals. 
+They will be treated as categories in our analysis. Numericals variables were checked for correlation using heatmap and some were dropped due to high redundancies. Data columns were renamed and stylized as snake_case. Checking the target variable unique values we have seen that the data is strongly unbalanced. We will deal with this during the several preprocessing iterations.
 
 
 

@@ -34,7 +34,18 @@ Checking the target variable unique values we have seen that the data were stron
 
 ## The Database
 
+The marketingcreditcard.csv file has been imported in to SQL workebench in order to answer to some questions related to the groupwork.
+
+## [SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
+.sql query file with query results in file annotations. 
+
 ## Visualisation
+
+Using Tableau we were able to easily visualise different aspects of the data and to perform some basic distribution techniques as well as more complex ones. The imbalancement of the data represent an obstacle to the visualisation and to overcome the problem we used avg value more often than the count one. 
+
+## [Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau)
+Workbook with visualization in Tableau.
+
 
 ## Statistical Analysis
 

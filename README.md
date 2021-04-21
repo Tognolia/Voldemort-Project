@@ -53,10 +53,13 @@ We decided to use a logistic regression model to solve our classification proble
 
 In details:
 
+Linear Regression Model
 - Original Sampling: accuracy of 0.94, but no ability to recognise the offer accepted equal to yes results.
 - SMOTE: accuray of 0.73, yes recognesed but less accurate
 - Tomek: accuray of 0.69, yes recognesed but less accurate
 - SMOTTomek (HYBRID): accuray of 0.73, yes recognesed but less accurate
+Random Forest
+- SMOTTomek (HYBRID): accuray of 0.86 --> SELECTED ONE
 
 
 ## Delivering Insight

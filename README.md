@@ -69,10 +69,4 @@ Jupyter notebook results and backups.
 ### [Slides](https://github.com/Tognolia/Voldemort-Project/tree/main/Slides)
 Presentation slides containing: problem description, machine learning process, results, next steps. 
 
-## Tony - Jerrit - Andrea
-### *April 2021*
-
-Project exploring data cleaning, Visualisation and Analysis of Credit Card for marketing strategy planning.
-
-
 

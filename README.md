@@ -32,14 +32,14 @@ They will be treated as categories in our analysis. Numericals variables were ch
 
 The marketingcreditcard.csv file has been imported in to SQL workebench in order to answer to some questions related to the groupwork.
 
-[SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
+[SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql) -
 In this folder you can find the .sql query file with annotations. Every query is marked with question number and query results for better orientation in the file. 
 
 ## Visualisation
 
 Using Tableau we were able to easily visualise different aspects of the data and to perform some basic distribution techniques as well as more complex ones. The imbalancement of the data represent an obstacle to the visualisation and to overcome the problem we used avg value more often than the count one. Later, through the Heatmap we have seen high correlation among the variables Q1, 2, 3, 4 balances.
 
-[Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau) In this folder you can find the workbook with vizualisations we did in Tableau. 
+[Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau) - In this folder you can find the workbook with vizualisations we did in Tableau. 
 
 
 ## Statistical Analysis

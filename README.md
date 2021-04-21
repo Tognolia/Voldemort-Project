@@ -32,7 +32,7 @@ They will be treated as categories in our analysis. Numericals variables were ch
 
 The marketingcreditcard.csv file has been imported in to SQL workebench in order to answer to some questions related to the groupwork.
 
-### [SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
+[SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
 .sql query file with query results in file annotations. 
 
 ## Visualisation

@@ -41,7 +41,7 @@ The marketingcreditcard.csv file has been imported in to SQL workebench in order
 
 ## Visualisation
 
-Using Tableau we were able to easily visualise different aspects of the data and to perform some basic distribution techniques as well as more complex ones. The imbalancement of the data represent an obstacle to the visualisation and to overcome the problem we used avg value more often than the count one. 
+Using Tableau we were able to easily visualise different aspects of the data and to perform some basic distribution techniques as well as more complex ones. The imbalancement of the data represent an obstacle to the visualisation and to overcome the problem we used avg value more often than the count one. Later, through the Heatmap we have seen high correlation among the variables Q1, 2, 3, 4 balances.
 
 ### [Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau)
 Workbook with visualization in Tableau.
@@ -49,15 +49,19 @@ Workbook with visualization in Tableau.
 
 ## Statistical Analysis
 
+We decided to use a logistic regression model to solve our classification problem. The target variable y, represented by "offer accepted", has been isolated and later predicted with the model. In total 5 rounds of iteration have been run with with an accuracy span which ranges bwtween 0.69 to 0.94, and the application of different over-, under-, hybrid sampling has been applied.
+
+In details:
+
+- Original Sampling: accuracy of 0.94, but no ability to recognise the offer accepted equal to yes results.
+- SMOTE: accuray of 0.73, yes recognesed but less accurate
+- Tomek: accuray of 0.69, yes recognesed but less accurate
+- SMOTTomek (HYBRID): accuray of 0.73, yes recognesed but less accurate
+
+
 ## Delivering Insight
 
 ## Next Steps
-
-### [Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau)
-Workbook with visualization in Tableau.
-
-### [SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
-.sql query file with query results in file annotations. 
 
 ### [Notebook](https://github.com/Tognolia/Voldemort-Project/tree/main/Notebook)
 Jupyter notebook results and backups.

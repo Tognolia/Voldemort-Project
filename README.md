@@ -33,7 +33,7 @@ They will be treated as categories in our analysis. Numericals variables were ch
 The marketingcreditcard.csv file has been imported in to SQL workebench in order to answer to some questions related to the groupwork.
 
 [SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
-.sql query file with query results in file annotations. 
+In this folder you can find the .sql query file with annotations. Every query is marked with question number and query results for better orientation in the file. 
 
 ## Visualisation
 

@@ -2,7 +2,7 @@
 ## Team : Tony - Jerrit - Andrea
 ### *April 2021*
 
-Project exploring data cleaning, Visualisation and Analysis of Credit Card for marketing strategy planning.
+Project exploring data cleaning, vizualisation and analysis of credit card data for mid-term planning of marketing activities.
 
 ## Content
 
@@ -16,7 +16,7 @@ Project exploring data cleaning, Visualisation and Analysis of Credit Card for m
 
 ## Project Outline
 
-This repository contains the group project by the Lily Potter team for the Ironhack Mid-Bootcamp Project. Our objective was to understand the features and other characteristics of the bank's customers comparing those who accept a credit card offer and those who do not.
+This repository contains data and additional information by the Lily Potter team for the Ironhack Mid-Bootcamp project. Our objective was to understand the features and characteristics of the bank's customers and make predictions of those who accept a credit card offer.
 
 ## The Data 
 

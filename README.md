@@ -39,8 +39,7 @@ In this folder you can find the .sql query file with annotations. Every query is
 
 Using Tableau we were able to easily visualise different aspects of the data and to perform some basic distribution techniques as well as more complex ones. The imbalancement of the data represent an obstacle to the visualisation and to overcome the problem we used avg value more often than the count one. Later, through the Heatmap we have seen high correlation among the variables Q1, 2, 3, 4 balances.
 
-### [Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau)
-Workbook with visualization in Tableau.
+[Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau) In this folder you can find the workbook with vizualisations we did in Tableau. 
 
 
 ## Statistical Analysis

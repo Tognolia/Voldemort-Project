@@ -1,13 +1,13 @@
 # Voldemort-Project
 Project-repo contents: 
 
-### Tableau [Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Notebook)
+###[Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau)
 Workbook with visualization in Tableau.
 
-### SQL
+###[SQL](https://github.com/Tognolia/Voldemort-Project/tree/main/sql)
 .sql query file with query results in file annotations. 
 
-### Notebook
+### [Notebook](https://github.com/Tognolia/Voldemort-Project/tree/main/Notebook)
 
-### Slides
+### [Slides](https://github.com/Tognolia/Voldemort-Project/tree/main/Slides)
 Presentation slides containing: problem description, machine learning process, results, next steps. 

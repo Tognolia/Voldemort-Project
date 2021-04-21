@@ -49,7 +49,7 @@ Workbook with visualization in Tableau.
 
 ## Statistical Analysis
 
-We decided to use a logistic regression model to solve our classification problem. The target variable y, represented by "offer accepted", has been isolated and later predicted with the model. In total 5 rounds of iteration have been run with with an accuracy span which ranges bwtween 0.69 to 0.94, and the application of different over-, under-, hybrid sampling has been applied.
+We decided to use a logistic regression model to solve our classification problem. The target variable y, represented by "offer accepted", has been isolated and later predicted with the model. we transformed the data and split the data into train and test sets with a test size of 30%. In total 5 rounds of iteration have been run with with an accuracy span which ranges bwtween 0.69 to 0.94, and the application of different over-, under-, hybrid sampling has been applied.
 
 In details:
 

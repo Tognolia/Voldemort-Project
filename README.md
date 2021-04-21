@@ -1,3 +1,13 @@
 # Voldemort-Project
+Project-repo contents: 
 
-link to tableau results: https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/Question8_2?publish=yes
+## Tableau
+Workbook with visualization in Tableau
+
+## SQL
+.sql query file with query results in file annotations. 
+
+## Notebook
+
+## Slides
+Presentation slides containing: problem description, machine learning process, results, next steps. 

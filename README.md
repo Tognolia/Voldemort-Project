@@ -27,7 +27,7 @@ Project exploring data cleaning, Visualisation and Analysis of Credit Card for m
 - [Visualisation](#visualisation)
 - [Statistical Analysis](#statistical-analysis)
 - [Delivering Insight](#delivering-insight)
-- [Next Steps](#next steps)
+- [Next Steps](#next-steps)
 
 ## Project Outline
 

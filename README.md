@@ -53,7 +53,7 @@ In details:
 - SMOTE: accuray of 0.73, yes recognesed but less accurate
 - Tomek: accuray of 0.69, yes recognesed but less accurate
 - SMOTTomek (HYBRID): accuray of 0.73, yes recognesed but less accurate
--
+
 ### Random Forest
 - SMOTTomek (HYBRID): accuray of 0.86 --> SELECTED ONE
 

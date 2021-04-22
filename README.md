@@ -45,6 +45,10 @@ Using Tableau we were able to easily visualise different aspects of the data and
 
 [Question 4](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/DashboardQ4) - Analyzing certain customer characteristics in one dashboard
 
+[Question 5](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/DashboardQ4) - Analyzing certain customer characteristics in one dashboard
+
+[Question 6](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/DashboardQ6) - Average balances per quarter and houshold - explanation for household size 8
+
 [Question 7](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/DashboardQ7) - Cross tabs for features and characteristics in one dashboard
 
 [Question 8](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/Question8_2) - Average balance grouped 

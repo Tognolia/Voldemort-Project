@@ -82,6 +82,14 @@ Using our dataset we were able to analyse the carateristics of bank customers wh
 
 ## Next Steps
 
+Transfer the developed method into business processes for marketing:
+
+- Setup data streams from database into CRM system
+- Programming data processing 
+- Creating dashboards for different marketing user groups
+- Training staff on how to run reports and amend them if necessary
+- developing personas
+
 ### [Notebook](https://github.com/Tognolia/Voldemort-Project/tree/main/Notebook)
 Jupyter notebook results and backups.
 

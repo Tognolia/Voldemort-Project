@@ -18,6 +18,8 @@ Project exploring data cleaning, vizualisation and analysis of credit card data 
 
 This repository contains data and additional information by the Lily Potter team for the Ironhack Mid-Bootcamp project. Our objective was to understand the features and characteristics of the bank's customers and make predictions of those who accept a credit card offer.
 
+![df.head](Images/database.png)
+
 ## The Data 
 
 The dataset was checked for duplicates. The identifier field (Customer Number) was dropped.
@@ -26,7 +28,7 @@ The data type of each column was checked. The unique values and distribution of 
 The distributions of each numerical variable were checked. The data fields credit cards held, homes owned, household size, bank accounts open were of numeric data type but are in fact categoricals. 
 They will be treated as categories in our analysis. Numericals variables were checked for correlation using heatmap and some were dropped due to high redundancies. Data columns were renamed and stylized as snake_case. Checking the target variable unique values we have seen that the data is strongly unbalanced. We will deal with this during the several preprocessing iterations.
 
-
+![Heatmap](Images/heatmap.png)
 
 ## The Database
 
@@ -69,10 +71,24 @@ In details:
 ### Random Forest
 - SMOTTomek (HYBRID): accuray of 0.86 --> SELECTED ONE
 
+![Confusion Matrix](Images/confusion.png)          
+![ROC](Images/roc.png)   
+![Metrics](Images/accuracy.png)  
+
 
 ## Delivering Insight
 
+Using our dataset we were able to analyse the carateristics of bank customers who respond positively or not to credit cart offers. Furthermore, with the creation of a predictive model, we are now able to better target customer who are more likely to activate these offers and in turn improve marketing results while reducing company's costs.
+
 ## Next Steps
+
+Transfer the developed method into business processes for marketing:
+
+- Setup data streams from database into CRM system
+- Programming data processing 
+- Creating dashboards for different marketing user groups
+- Training staff on how to run reports and amend them if necessary
+- developing personas
 
 ### [Notebook](https://github.com/Tognolia/Voldemort-Project/tree/main/Notebook)
 Jupyter notebook results and backups.

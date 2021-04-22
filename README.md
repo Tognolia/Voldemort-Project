@@ -18,6 +18,8 @@ Project exploring data cleaning, vizualisation and analysis of credit card data 
 
 This repository contains data and additional information by the Lily Potter team for the Ironhack Mid-Bootcamp project. Our objective was to understand the features and characteristics of the bank's customers and make predictions of those who accept a credit card offer.
 
+![df.head](Images/database.png)
+
 ## The Data 
 
 The dataset was checked for duplicates. The identifier field (Customer Number) was dropped.

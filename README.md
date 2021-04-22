@@ -40,14 +40,14 @@ In this folder you can find the .sql query file with annotations. Every query is
 Using Tableau we were able to easily visualise different aspects of the data and to perform some basic distribution techniques as well as more complex ones. The imbalancement of the data represent an obstacle to the visualisation and to overcome the problem we used avg value more often than the count one. Later, through the Heatmap we have seen high correlation among the variables Q1, 2, 3, 4 balances.
 
 [Question 2](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/Question2) - Vizualisation of the imbalance in the dataset
+
 [Question 3](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/Question3) - Imbalance in dataset in percentage ot total number of people in dataset
+
 [Question 4](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/DashboardQ4) - Analyzing certain customer characteristics in one dashboard
 
-
 [Question 7](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/DashboardQ7) - Cross tabs for features and characteristics in one dashboard
-[Question 8](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/Question8_2) - Average balance grouped 
 
-[Tableau](https://github.com/Tognolia/Voldemort-Project/tree/main/Tableau) - In this folder you can find the workbook with vizualisations we did in Tableau. 
+[Question 8](https://public.tableau.com/profile/jerrit#!/vizhome/Tableau-Classification/Question8_2) - Average balance grouped 
 
 
 ## Statistical Analysis

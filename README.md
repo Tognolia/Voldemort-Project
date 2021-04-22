@@ -78,6 +78,8 @@ In details:
 
 ## Delivering Insight
 
+Using our dataset we were able to analyse the carateristics of bank customers who respond positively or not to credit cart offers. Furthermore, with the creation of a predictive model, we are now able to better target customer who are more likely to activate these offers and in turn improve marketing results while reducing company's costs.
+
 ## Next Steps
 
 ### [Notebook](https://github.com/Tognolia/Voldemort-Project/tree/main/Notebook)

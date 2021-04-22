@@ -69,7 +69,8 @@ In details:
 ### Random Forest
 - SMOTTomek (HYBRID): accuray of 0.86 --> SELECTED ONE
 
-![Confusion Matrix](Images/confusion.png)          ![ROC](Images/roc.png)   
+![Confusion Matrix](Images/confusion.png)          
+![ROC](Images/roc.png)   
 ![Metrics](Images/accuracy.png)  
 
 
